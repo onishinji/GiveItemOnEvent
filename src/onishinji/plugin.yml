@@ -1,0 +1,8 @@
+name: GiveItemOnEvent
+main: onishinji.GiveItemOnEvent
+version: 1
+
+commands:
+     active-event:
+        description: 
+        usage: /<command>
