@@ -32,6 +32,7 @@ public class Event {
         days.put("monday", Calendar.MONDAY);
         days.put("tuesday", Calendar.TUESDAY);
         days.put("wednesday", Calendar.WEDNESDAY);
+        days.put("thursday", Calendar.THURSDAY);
         days.put("friday", Calendar.FRIDAY);
         days.put("saturday", Calendar.SATURDAY);
         days.put("sunday", Calendar.SUNDAY);
